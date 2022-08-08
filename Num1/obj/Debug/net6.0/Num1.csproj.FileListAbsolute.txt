@@ -1,0 +1,15 @@
+C:\Users\orlan\source\repos\aplicaciones de consola\Num1\Num1\bin\Debug\net6.0\Num1.exe
+C:\Users\orlan\source\repos\aplicaciones de consola\Num1\Num1\bin\Debug\net6.0\Num1.deps.json
+C:\Users\orlan\source\repos\aplicaciones de consola\Num1\Num1\bin\Debug\net6.0\Num1.runtimeconfig.json
+C:\Users\orlan\source\repos\aplicaciones de consola\Num1\Num1\bin\Debug\net6.0\Num1.dll
+C:\Users\orlan\source\repos\aplicaciones de consola\Num1\Num1\bin\Debug\net6.0\Num1.pdb
+C:\Users\orlan\source\repos\aplicaciones de consola\Num1\Num1\obj\Debug\net6.0\Num1.csproj.AssemblyReference.cache
+C:\Users\orlan\source\repos\aplicaciones de consola\Num1\Num1\obj\Debug\net6.0\Num1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orlan\source\repos\aplicaciones de consola\Num1\Num1\obj\Debug\net6.0\Num1.AssemblyInfoInputs.cache
+C:\Users\orlan\source\repos\aplicaciones de consola\Num1\Num1\obj\Debug\net6.0\Num1.AssemblyInfo.cs
+C:\Users\orlan\source\repos\aplicaciones de consola\Num1\Num1\obj\Debug\net6.0\Num1.csproj.CoreCompileInputs.cache
+C:\Users\orlan\source\repos\aplicaciones de consola\Num1\Num1\obj\Debug\net6.0\Num1.dll
+C:\Users\orlan\source\repos\aplicaciones de consola\Num1\Num1\obj\Debug\net6.0\refint\Num1.dll
+C:\Users\orlan\source\repos\aplicaciones de consola\Num1\Num1\obj\Debug\net6.0\Num1.pdb
+C:\Users\orlan\source\repos\aplicaciones de consola\Num1\Num1\obj\Debug\net6.0\Num1.genruntimeconfig.cache
+C:\Users\orlan\source\repos\aplicaciones de consola\Num1\Num1\obj\Debug\net6.0\ref\Num1.dll
